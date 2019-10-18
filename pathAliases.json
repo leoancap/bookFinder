@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "#root": ["."],
+      "#actions": ["store/actions"],
+      "#components": ["components"],
+      "#constants": ["constants"],
+      "#customHooks": ["customHooks"],
+      "#domainTypes": ["types"],
+      "#pages": ["pages"],
+      "#router": ["router"],
+      "#selectors": ["selectors"],
+      "#services": ["services"],
+      "#storeTypes": ["store/types"],
+      "#store": ["store"],
+      "#styled": ["styled"],
+      "#styledTypes": ["types/styledTypes"]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/public
+/dist
+
+# misc
+.cache
+.DS_Store
+.vscode
+
+yarn-error.log*
