@@ -120,6 +120,8 @@ src/
 
 ## API
 
+- The api is currently mocked locally. obs: check parcel with next.js/now compatibility
+
 ## Features
 
 - [x] Search books by title, author and ISBN.
